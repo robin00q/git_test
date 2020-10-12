@@ -1,4 +1,0 @@
-rebase 테스트를해보자
-
-test
-test
